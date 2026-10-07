@@ -8,7 +8,7 @@ The repository includes:
 - UART communication modules
 - FPGA constraint files
 - Tcl scripts for controlled PUF placement
-The design is implemented using Xilinx Vivado.
+- The design is implemented using Xilinx Vivado.
 ## Repository Structure
 Anderson-PUF-FPGA-Characterization/
 ├── README.md
